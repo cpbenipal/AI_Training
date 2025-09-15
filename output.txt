@@ -1,0 +1,20 @@
+
+Certification Prep
+Capstone Mini Project
+Image Generation
+Semantic Search
+OpenAI – GPT Fine-tuning
+Invoice Data Extraction
+Document Intelligence
+Translation & Chatbot
+Entity Recognition
+NLP – Text Analysis
+OCR
+Face Detection
+Computer Vision
+ML Model Deployment
+Azure AI Services
+AI Foundations with Azure
+FastAPI + DB Operations
+Python Libraries
+Python Foundations & Libraries

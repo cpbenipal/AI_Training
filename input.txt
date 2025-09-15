@@ -1,0 +1,20 @@
+Python Foundations & Libraries
+Python Libraries
+FastAPI + DB Operations
+AI Foundations with Azure
+Azure AI Services
+ML Model Deployment
+Computer Vision
+Face Detection
+OCR
+NLP – Text Analysis
+Entity Recognition
+Translation & Chatbot
+Document Intelligence
+Invoice Data Extraction
+OpenAI – GPT Fine-tuning
+Semantic Search
+Image Generation
+Capstone Mini Project
+Certification Prep
+
